@@ -1,0 +1,7 @@
+
+### How to Use:
+
+1. Save this text as `README.md` in the root directory of your project.
+2. Update the repository link (`https://github.com/yourusername/HEM-PUBG-Mobile-Cleaner.git`) and author information accordingly.
+
+This README will provide an overview of the project and how to use it for anyone visiting your GitHub repository. Let me know if you need any adjustments!
