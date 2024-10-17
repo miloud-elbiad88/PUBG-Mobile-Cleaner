@@ -21,4 +21,4 @@ A simple tool built with Python and Tkinter to completely clean out PUBG Mobile 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/HEM-PUBG-Mobile-Cleaner.git
+   git clone https://github.com/miloud-elbiad88/HEM-PUBG-Mobile-Cleaner.git
