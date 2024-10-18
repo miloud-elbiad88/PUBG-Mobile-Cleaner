@@ -1,4 +1,4 @@
-# HEM PUBG Mobile Cleaner from Morocco
+#  PUBG Mobile Cleaner from Morocco
 
 A simple tool built with Python and Tkinter to completely clean out PUBG Mobile (Gameloop) files and registry entries from your Windows system.
 
